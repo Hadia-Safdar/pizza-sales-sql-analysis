@@ -47,7 +47,7 @@ Each file represents a relational table that was imported into MySQL for analysi
 - Subqueries and Derived Tables
 - Time-based data grouping
 - Revenue analysis and business KPIs
-- 
+  
 ## Author
 
 **Hadia Safdar**  
